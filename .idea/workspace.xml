@@ -2,28 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="968be363-946e-485c-a3ed-f0d4d18cdb3d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/131016123126urban-f.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/advertisement.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/baner-sf-12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/banner-sf-04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bg-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/creative.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css3-s.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/destop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email-ico.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hosting-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hosting-package.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hosting.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5-s.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/magento-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mian-slide-sf-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smart-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fancybox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ga.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery.formstyler.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery.minicolors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery.touchSwipe.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery.tweet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider.transitions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/retina.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131013103715galiva.png" afterPath="$PROJECT_DIR$/img/131013103715galiva.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131013103831acme.png" afterPath="$PROJECT_DIR$/img/131013103831acme.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131013103849solveit.png" afterPath="$PROJECT_DIR$/img/131013103849solveit.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131013103919we2.png" afterPath="$PROJECT_DIR$/img/131013103919we2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131013103940c-ic.png" afterPath="$PROJECT_DIR$/img/131013103940c-ic.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131013103953mailboat.png" afterPath="$PROJECT_DIR$/img/131013103953mailboat.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131013104007allen.png" afterPath="$PROJECT_DIR$/img/131013104007allen.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131013104023kend.png" afterPath="$PROJECT_DIR$/img/131013104023kend.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131013104035sreetel.png" afterPath="$PROJECT_DIR$/img/131013104035sreetel.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/13101554231sino-f.jpg" afterPath="$PROJECT_DIR$/img/13101554231sino-f.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/13101555204ftt-f.jpg" afterPath="$PROJECT_DIR$/img/13101555204ftt-f.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1310161206121.jpg" afterPath="$PROJECT_DIR$/img/1310161206121.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1310161209372.jpg" afterPath="$PROJECT_DIR$/img/1310161209372.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1310161209503.jpg" afterPath="$PROJECT_DIR$/img/1310161209503.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1310161211054.jpg" afterPath="$PROJECT_DIR$/img/1310161211054.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1310161211555.jpg" afterPath="$PROJECT_DIR$/img/1310161211555.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1310161212437.jpg" afterPath="$PROJECT_DIR$/img/1310161212437.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1310161213308.jpg" afterPath="$PROJECT_DIR$/img/1310161213308.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1310161214216.jpg" afterPath="$PROJECT_DIR$/img/1310161214216.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1310161216159.jpg" afterPath="$PROJECT_DIR$/img/1310161216159.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/13101612170212.jpg" afterPath="$PROJECT_DIR$/img/13101612170212.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131016122046121.jpg" afterPath="$PROJECT_DIR$/img/131016122046121.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131016124157122.jpg" afterPath="$PROJECT_DIR$/img/131016124157122.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1310161250571212.jpg" afterPath="$PROJECT_DIR$/img/1310161250571212.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/131016125230ewr.jpg" afterPath="$PROJECT_DIR$/img/131016125230ewr.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/13110611251turf-f.png" afterPath="$PROJECT_DIR$/img/13110611251turf-f.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/accepts-payment.png" afterPath="$PROJECT_DIR$/img/accepts-payment.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/adress_footer_icon.png" afterPath="$PROJECT_DIR$/img/adress_footer_icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blackandwhite.min.js" afterPath="$PROJECT_DIR$/js/blackandwhite.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap.js" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jquery-1.8.3.js" afterPath="$PROJECT_DIR$/js/jquery-1.8.3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jquery.carouFredSel-6.0.3-packed.js" afterPath="$PROJECT_DIR$/js/jquery.carouFredSel-6.0.3-packed.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jquery.eqheight.js" afterPath="$PROJECT_DIR$/js/jquery.eqheight.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/layerslider.css" afterPath="$PROJECT_DIR$/css/layerslider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/layerslider.kreaturamedia.jquery.js" afterPath="$PROJECT_DIR$/js/layerslider.kreaturamedia.jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/layout.css" afterPath="$PROJECT_DIR$/css/layout.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile-ico.png" afterPath="$PROJECT_DIR$/img/mobile-ico.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sf-domain-icn.png" afterPath="$PROJECT_DIR$/img/sf-domain-icn.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sf-host-icon.png" afterPath="$PROJECT_DIR$/img/sf-host-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sf-soft-ico.png" afterPath="$PROJECT_DIR$/img/sf-soft-ico.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sf-web-ico.png" afterPath="$PROJECT_DIR$/img/sf-web-ico.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/shadow-1.png" afterPath="$PROJECT_DIR$/img/shadow-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/shadow.png" afterPath="$PROJECT_DIR$/img/shadow.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" afterPath="$PROJECT_DIR$/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="distanceInterval.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,13 +81,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="42" selection-start="938" selection-end="938" vertical-scroll-proportion="0.4368932" vertical-offset="75" max-vertical-offset="2715">
+            <state line="12" column="0" selection-start="515" selection-end="586" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="615">
               <folding>
-                <element signature="n#style#0;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="tag#div#0;tag#section#0;tag#section#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#section#0;tag#section#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layerslider.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/layerslider.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.3915343" vertical-offset="2490" max-vertical-offset="11670">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/layout.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="1" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="73665">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -76,8 +132,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="57" />
+    <option name="x" value="50" />
+    <option name="y" value="182" />
     <option name="width" value="1269" />
     <option name="height" value="711" />
   </component>
@@ -126,6 +182,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="distanceInterval" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="distanceInterval" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="distanceInterval" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="distanceInterval" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -138,6 +222,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm">
     <configuration default="false" name="Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/distanceInterval/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm">
@@ -177,27 +268,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="57" width="1269" height="711" extended-state="0" />
+    <frame x="50" y="182" width="1269" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24938875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39966273" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25346375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39831933" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -219,10 +310,46 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="42" selection-start="938" selection-end="938" vertical-scroll-proportion="0.4368932" vertical-offset="75" max-vertical-offset="2715">
+        <state line="20" column="42" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2715">
           <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#section#0;tag#section#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#section#0;tag#section#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.0" vertical-offset="1230" max-vertical-offset="73665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="73665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="515" selection-end="586" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="615">
+          <folding>
+            <element signature="tag#div#0;tag#section#0;tag#section#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#section#0;tag#section#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layerslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.3915343" vertical-offset="2490" max-vertical-offset="11670">
+          <folding />
         </state>
       </provider>
     </entry>
