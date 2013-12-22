@@ -2,6 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="968be363-946e-485c-a3ed-f0d4d18cdb3d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/131016123126urban-f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/advertisement.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/baner-sf-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/banner-sf-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bg-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/creative.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css3-s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/destop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/email-ico.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hosting-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hosting-package.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hosting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html5-s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magento-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mian-slide-sf-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/smart-logo.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" afterPath="$PROJECT_DIR$/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" />
     </list>
     <ignored path="distanceInterval.iws" />
@@ -28,8 +49,10 @@
       <file leaf-file-name="Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="46" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.8804781" vertical-offset="98" max-vertical-offset="1050">
-              <folding />
+            <state line="20" column="42" selection-start="938" selection-end="938" vertical-scroll-proportion="0.4368932" vertical-offset="75" max-vertical-offset="2715">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,8 +76,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="11" />
-    <option name="y" value="25" />
+    <option name="x" value="-11" />
+    <option name="y" value="57" />
     <option name="width" value="1269" />
     <option name="height" value="711" />
   </component>
@@ -114,9 +137,35 @@
     <property name="options.searchVisible" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager">
-    <list size="0" />
+  <component name="RunManager" selected="JavaScript Debug.Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm">
+    <configuration default="false" name="Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/distanceInterval/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -128,7 +177,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="25" width="1269" height="711" extended-state="0" />
+    <frame x="-11" y="57" width="1269" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -138,7 +187,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24938875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39966273" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -170,8 +219,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Web Development and Hosting Company in Bangladesh, IT Company in Bangladesh.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="46" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.8804781" vertical-offset="98" max-vertical-offset="1050">
-          <folding />
+        <state line="20" column="42" selection-start="938" selection-end="938" vertical-scroll-proportion="0.4368932" vertical-offset="75" max-vertical-offset="2715">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
